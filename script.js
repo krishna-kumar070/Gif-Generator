@@ -6,7 +6,7 @@ let generateGif = () => {
   loader.style.display = "block";
   document.querySelector(".wrapper").style.display = "none";
 
-  //Get search value (default => laugh)
+  //Get search value (default => Congratulations)
   let q = document.getElementById("search-box").value;
   //We need 10 gifs to be displayed in result
   let gifCount = 10;
