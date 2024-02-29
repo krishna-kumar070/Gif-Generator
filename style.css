@@ -11,7 +11,7 @@
     border: none;
     outline: none;
     cursor: pointer;
-    background-color: #13fc97;
+    background-color: #07b5f4;
     color: #151d2f;
     border-radius: 0.5em;
     font-weight: 500;
@@ -56,7 +56,7 @@
     width: 15em;
     border: 3em solid #2b304d;
     border-radius: 50%;
-    border-top-color: #13fc97;
+    border-top-color: #07b5f4;
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
